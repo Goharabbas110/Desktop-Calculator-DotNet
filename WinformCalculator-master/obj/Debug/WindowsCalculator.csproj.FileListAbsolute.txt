@@ -1,0 +1,19 @@
+D:\Semester 2\PF - OOP\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+D:\Semester 2\PF - OOP\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+D:\Semester 2\PF - OOP\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+D:\Semester 2\PF - OOP\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csprojResolveAssemblyReference.cache
+D:\Semester 2\PF - OOP\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Form1.resources
+D:\Semester 2\PF - OOP\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+D:\Semester 2\PF - OOP\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.Cache
+D:\Semester 2\PF - OOP\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+D:\Semester 2\PF - OOP\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
+E:\GitHub\Desktop\WinformCalculator-master\bin\Debug\WindowsCalculator.exe.config
+E:\GitHub\Desktop\WinformCalculator-master\bin\Debug\WindowsCalculator.exe
+E:\GitHub\Desktop\WinformCalculator-master\bin\Debug\WindowsCalculator.pdb
+E:\GitHub\Desktop\WinformCalculator-master\obj\Debug\WindowsCalculator.csproj.AssemblyReference.cache
+E:\GitHub\Desktop\WinformCalculator-master\obj\Debug\WindowsCalculator.Form1.resources
+E:\GitHub\Desktop\WinformCalculator-master\obj\Debug\WindowsCalculator.Properties.Resources.resources
+E:\GitHub\Desktop\WinformCalculator-master\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+E:\GitHub\Desktop\WinformCalculator-master\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+E:\GitHub\Desktop\WinformCalculator-master\obj\Debug\WindowsCalculator.exe
+E:\GitHub\Desktop\WinformCalculator-master\obj\Debug\WindowsCalculator.pdb
